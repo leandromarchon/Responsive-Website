@@ -7,8 +7,10 @@
 		<link rel="stylesheet" href="css/style.css" type="text/css">
 	</head>
 	<body class="body">
+		<!-- header -->
 		<header class="mainheader">
 			<img src="img/logo.png" alt="Logo Topo Site">
+			<!-- nav -->
 			<nav>
 				<ul>
 					<li><a href="">Home</a></li>
