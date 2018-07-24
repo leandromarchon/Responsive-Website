@@ -15,3 +15,64 @@ body{
 	line-height: 1.5;
 	text-align: left;
 }
+
+a{
+	text-decoration: none;
+}
+
+a:link, a:visited{
+	
+}
+
+a:hover, a:active{
+	
+}
+
+.body{
+	margin: 0 auto;
+	width: 70%;
+	clear: both;
+}
+
+.main-header img{
+	width: 30%;
+	height: auto;
+	margin: 2% 0;
+}
+
+.main-header nav{
+	background-color: #666;
+	height: 40px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.main-header nav ul{
+	list-style: none;
+	margin: 0 auto;
+}
+
+.main-header nav ul li{
+	float: left;
+	display: inline;
+}
+
+.main-header nav a:link, .main-header nav a:visited{
+	color: #fff;
+	display: inline-block;
+	padding: 10px 25px;
+	height: 20px;
+}
+
+.main-header nav a:hover, .main-header nav a:active,
+.main-header nav .active a:link, .main-header nav .active a:visited{
+	background-color: #cf5c3f;
+	text-shadow: none;
+}
+
+.main-header nav ul li a{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
