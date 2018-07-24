@@ -6,3 +6,12 @@
 	Author: Christian Vasile
 	Author URL: http://christianvasile.com
 */
+
+body{
+	background-image: url('../img/bg.png');
+	color: #000305;
+	font-size: 100%;
+	font-family: arial, 'Lucida Sans Unicode', sans serif;
+	line-height: 1.5;
+	text-align: left;
+}
