@@ -82,7 +82,6 @@ a:hover, a:active{
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
-	overflow: hidden;
 }
 
 .content{
@@ -101,4 +100,26 @@ a:hover, a:active{
 
 .block-content content p{
 	text-align: justify;
+}
+
+.sidebar{
+	width: 20%;
+	float: left;
+	background-color: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;	
+	padding: 1% 2%;
+	margin-top: 3.5%;
+	margin-left: 5%;
+}
+
+.sidebar h2{
+	color: #696969;
+}
+
+.sidebar a{
+	color: #cf5c3f;
+	font-style: italic;
+	font-size: 80%;
 }
