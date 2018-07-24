@@ -84,3 +84,21 @@ a:hover, a:active{
 	-webkit-border-radius: 5px;
 	overflow: hidden;
 }
+
+.content{
+	width: 70%;
+	float: left;
+}
+
+.block-content{
+	background-color: #fff;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 3% 5%;
+	margin-top: 5%;
+}
+
+.block-content content p{
+	text-align: justify;
+}
