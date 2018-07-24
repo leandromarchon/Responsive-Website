@@ -38,15 +38,6 @@
 							pharetra ac orci. In felis leo, feugiat ac facilisis id, pellentesque non magna. Nam augue urna, ultricies at scelerisque a, 
 							lobortis eget erat. Cras massa ex, blandit ornare augue vel, tincidunt vulputate magna.
 						</p>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum. 
-							Etiam et tellus quis velit ultricies lobortis id ullamcorper nibh. Mauris tincidunt, massa quis interdum dignissim, eros nisl 
-							commodo purus, quis mollis nulla justo vitae sem. Etiam vel lacus rutrum, mattis magna sit amet, placerat tellus. Phasellus 
-							luctus condimentum urna, vitae ultricies lorem efficitur pulvinar. Proin venenatis maximus faucibus. Ut at consectetur sem. 
-							Aliquam odio lorem, dapibus mattis nibh ac, congue mattis ex. Maecenas ut dui mauris. Etiam ut lacus non lacus convallis sagittis 
-							pharetra ac orci. In felis leo, feugiat ac facilisis id, pellentesque non magna. Nam augue urna, ultricies at scelerisque a, 
-							lobortis eget erat. Cras massa ex, blandit ornare augue vel, tincidunt vulputate magna.
-						</p>
 					</content>
 					
 					<footer>
@@ -80,9 +71,11 @@
 			<article>
 				<h2>Top Sidebar</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum. 
-					Etiam et tellus quis velit ultricies lobortis id ullamcorper nibh.
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
 				</p>
+				<footer>
+					<p class="sidebar-info">Leia mais...</p>
+				</footer>
 			</article>
 		</aside>
 		
@@ -90,9 +83,11 @@
 			<article>
 				<h2>Middle Sidebar</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum. 
-					Etiam et tellus quis velit ultricies lobortis id ullamcorper nibh.
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
 				</p>
+				<footer>
+					<p class="sidebar-info">Leia mais...</p>
+				</footer>
 			</article>
 		</aside>
 		
@@ -100,9 +95,11 @@
 			<article>
 				<h2>Bottom Sidebar</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum. 
-					Etiam et tellus quis velit ultricies lobortis id ullamcorper nibh.
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
 				</p>
+				<footer>
+					<p class="sidebar-info">Leia mais...</p>
+				</footer>
 			</article>
 		</aside>
 		<!-- footer -->
