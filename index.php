@@ -83,7 +83,7 @@
 			<article>
 				<h2>Middle Sidebar</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis.
 				</p>
 				<footer>
 					<p class="sidebar-info"><a href="#">Leia mais...</a></p>
@@ -95,7 +95,7 @@
 			<article>
 				<h2>Bottom Sidebar</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 				</p>
 				<footer>
 					<p class="sidebar-info"><a href="#">Leia mais...</a></p>
