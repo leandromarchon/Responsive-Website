@@ -74,7 +74,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
 				</p>
 				<footer>
-					<p class="sidebar-info">Leia mais...</p>
+					<p class="sidebar-info"><a href="#">Leia mais...</a></p>
 				</footer>
 			</article>
 		</aside>
@@ -86,7 +86,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
 				</p>
 				<footer>
-					<p class="sidebar-info">Leia mais...</p>
+					<p class="sidebar-info"><a href="#">Leia mais...</a></p>
 				</footer>
 			</article>
 		</aside>
@@ -98,7 +98,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consequat lacus id enim convallis, eget mollis dui rutrum.
 				</p>
 				<footer>
-					<p class="sidebar-info">Leia mais...</p>
+					<p class="sidebar-info"><a href="#">Leia mais...</a></p>
 				</footer>
 			</article>
 		</aside>
