@@ -23,7 +23,7 @@
 		<!-- Main content -->
 		<div class="main-content">
 			<div class="content">
-				<article class="top-content">
+				<article class="block-content">
 					<header>
 						<h2><a href="#" title="Primeiro Post">Segundo Post</a></h2>
 					</header>
@@ -54,7 +54,7 @@
 					</footer>
 				</article>
 				
-				<article class="top-content">
+				<article class="block-content">
 					<header>
 						<h2><a href="#" title="Primeiro Post">Primeiro Post</a></h2>
 					</header>
