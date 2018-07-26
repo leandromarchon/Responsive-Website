@@ -7,6 +7,7 @@
 	Author URL: http://christianvasile.com
 */
 
+/* Desktop */
 body{
 	background-image: url('../img/bg.png');
 	color: #000305;
@@ -148,6 +149,7 @@ a:hover, a:active{
 	color: #fff;
 }
 
+/* Mobile Phone */
 @media only screen and (min-width: 150px) and (max-width: 600px){
 	
 	.body{
@@ -202,5 +204,43 @@ a:hover, a:active{
 	.main-footer p{
 		margin: 2% auto;
 		text-align: center;
+	}
+}
+
+/* Tablets */
+@media only screen and (min-width: 601px) and (max-width: 768px){
+	
+	.body{
+		width: 97%;
+		font-size: 90%;
+	}
+	
+	.main-header img{
+		width: 50%;
+	}
+
+	.content{
+		width: 100%;
+		float: left;
+		margin-bottom: 2%;
+	}
+
+	.block-content content p{
+		text-align: justify;
+	}
+
+	.post-info{
+		font-style: italic;
+		color: #999;
+		font-size: 85%;
+	}
+
+	.sidebar{
+		width: 96%;
+		margin: 2% 0;
+	}
+	
+	.main-footer p{
+		margin: 1% auto;
 	}
 }
