@@ -177,4 +177,30 @@ a:hover, a:active{
 		height: 20px;
 		display: block;
 	}
+
+	.content{
+		width: 100%;
+		float: left;
+		margin-bottom: 2%;
+	}
+
+	.block-content content p{
+		text-align: justify;
+	}
+
+	.post-info{
+		font-style: italic;
+		color: #999;
+		font-size: 85%;
+	}
+
+	.sidebar{
+		width: 96%;
+		margin: 2% 0;
+	}
+	
+	.main-footer p{
+		margin: 2% auto;
+		text-align: center;
+	}
 }
