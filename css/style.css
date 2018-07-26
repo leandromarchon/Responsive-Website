@@ -154,4 +154,27 @@ a:hover, a:active{
 		width: 97%;
 		font-size: 90%;
 	}
+	
+	.main-header img{
+		width: 100%;
+	}
+	
+	.main-header nav{
+		height: 160px;
+	}
+
+	.main-header nav ul{
+		padding-left: 0;
+	}
+
+	.main-header nav ul li{
+		width: 100%;
+		text-align: center;
+	}
+
+	.main-header nav a:link, .main-header nav a:visited{
+		padding: 10px 25px;
+		height: 20px;
+		display: block;
+	}
 }
